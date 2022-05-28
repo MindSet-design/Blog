@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Id":  "1",
+    "date": "2022-05-28",
+    "title": "My First Post",
+    "body": "Today Im starting to build out a real world application using react and goolge data studio or charts. This application is going to supply graphs and other metrics for schools with publicly available information that is currently supplied to schools and districts in a format that isnt very useful. More to come as I make progress"
+  }
+]
