@@ -51,9 +51,9 @@ else
     protected override async Task OnInitializedAsync()
     {
         Posts = await Http.GetFromJsonAsync<BlogPosts[]>("blog-posts/posts.json");
-        Title = Posts.First().Title;
-        Body = Posts.First().Body;
-        Date = Posts.First().Date.ToShortDateString();
+        Title = Posts.Last().Title;
+        Body = Posts.Last().Body;
+        Date = Posts.Last().Date.ToShortDateString();
     }
 
     private void updatepost(BlogPosts post)
