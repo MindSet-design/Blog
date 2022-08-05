@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bV94j0gaA2uBRfKj7dtVCs538YlcrLqECVW21gwfn5AL+RJK6QNnOU+neTJFpfJV0rR3QEjUu4EDA6ynB30adg==",
+  "dgSpecHash": "eZWI/vSiLq1ge/jdnSCfhKhLvvvvwXrYkBeF9Quso7otVdV/BgUkIXLcmxjPKKVhr1hAB0t7kP6m5dzewLJDmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicno\\source\\repos\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor.csproj",
+  "projectFilePath": "C:\\Users\\nicno\\source\\repos\\Portfolio-Blog-Blazor\\Blog\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicno\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.3\\microsoft.aspnetcore.authorization.6.0.3.nupkg.sha512",
     "C:\\Users\\nicno\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.3\\microsoft.aspnetcore.components.6.0.3.nupkg.sha512",

@@ -1,8 +1,15 @@
 ﻿[
   {
-    "Id":  "1",
+    "Id": "1",
     "date": "2022-05-28",
     "title": "My First Post",
     "body": "Today Im starting to build out a real world application using react and goolge data studio or charts. This application is going to supply graphs and other metrics for schools with publicly available information that is currently supplied to schools and districts in a format that isnt very useful. More to come as I make progress"
+  },
+  {
+    "Id": "2",
+    "date": "2022-08-04",
+    "title": "Alberta Assurance",
+    "body": "I ended up finishing the data visualization platform from my first post. I used React, Syncfusion and Firebase. Firebase is being used for user credentials/data storage and syncfusion for visualizing the data. I made this project not cause I thought anthing would come from it but it was project I made that has an actual use and problem to solve. As of now I have no one using it but as of now it is open and available, if you want to know more check it out @ https://moreinformed-auth-dev.web.app/"
+
   }
 ]

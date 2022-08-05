@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicno\\source\\repos\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor.csproj": {}
+    "C:\\Users\\nicno\\source\\repos\\Portfolio-Blog-Blazor\\Blog\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicno\\source\\repos\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor.csproj": {
+    "C:\\Users\\nicno\\source\\repos\\Portfolio-Blog-Blazor\\Blog\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicno\\source\\repos\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor.csproj",
+        "projectUniqueName": "C:\\Users\\nicno\\source\\repos\\Portfolio-Blog-Blazor\\Blog\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor.csproj",
         "projectName": "Portfolio-Blog-Blazor",
-        "projectPath": "C:\\Users\\nicno\\source\\repos\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor.csproj",
+        "projectPath": "C:\\Users\\nicno\\source\\repos\\Portfolio-Blog-Blazor\\Blog\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor.csproj",
         "packagesPath": "C:\\Users\\nicno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicno\\source\\repos\\Portfolio-Blog-Blazor\\Portfolio-Blog-Blazor\\obj\\",
+        "outputPath": "C:\\Users\\nicno\\source\\repos\\Portfolio-Blog-Blazor\\Blog\\Portfolio-Blog-Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicno\\AppData\\Roaming\\NuGet\\NuGet.Config",
