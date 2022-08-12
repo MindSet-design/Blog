@@ -28,7 +28,7 @@ else
                     <div class="row">
                         <div class="col-sm-6">
                             <ul class="list-unstyled mb-0">
-                                @foreach ( var Post in Posts)
+                                @foreach ( var Post in Posts.Reverse())
                                 {
                                     
                                     <li> <button class="btn text-light" @onclick="args => updatepost(Post)">@Post.Title <p class="text-muted mb-0">@Post.Date.ToShortDateString()</p></button></li>

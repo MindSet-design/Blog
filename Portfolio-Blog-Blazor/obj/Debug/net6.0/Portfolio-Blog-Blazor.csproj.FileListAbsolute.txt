@@ -813,6 +813,7 @@ C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Portfolio-Blog-Blazor\obj\Debu
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Portfolio-Blog-Blazor\obj\Debug\net6.0\build-gz\+nNMlJ9F.gz
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Portfolio-Blog-Blazor\obj\Debug\net6.0\build-gz\h20dboVS.gz
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Portfolio-Blog-Blazor\obj\Debug\net6.0\build-gz\nQ7OI0Tv.gz
+C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.5.dnvg88xak7.js
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
@@ -850,6 +851,8 @@ C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\Portfolio-Blog-Blazor.dll
+C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\Portfolio-Blog-Blazor.pdb
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
@@ -1010,9 +1013,6 @@ C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
-C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
-C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\Portfolio-Blog-Blazor.dll
-C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\Portfolio-Blog-Blazor.pdb
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
 C:\Users\nicno\source\repos\Portfolio-Blog-Blazor\Blog\Portfolio-Blog-Blazor\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
