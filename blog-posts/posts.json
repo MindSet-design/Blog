@@ -10,6 +10,11 @@
     "date": "2022-08-04",
     "title": "Alberta Assurance",
     "body": "I ended up finishing the data visualization platform from my first post. I used React, Syncfusion and Firebase. Firebase is being used for user credentials/data storage and syncfusion for visualizing the data. I made this project not cause I thought anthing would come from it but it was project I made that has an actual use and problem to solve. As of now I have no one using it but as of now it is open and available, if you want to know more check it out @ https://moreinformed-auth-dev.web.app/"
-
+  },
+  {
+    "Id": "3",
+    "date": "2022-08-11",
+    "title": "UE5 Project",
+    "body": "I've played around with unreal and web dev quite a bit over the last 2 years and I have built out a few complete web projects and want to do the same for game dev. I finally have an idea of something I'd like to create and a good idea of what I need to do to get it done. Right now i'm building out basic skel meshes and skeleton structures for the vehicles and characters. The project will be centered around robot characters and I want to make the characters similarly how the robot character in the land of nanite. To make it quick and iterable I'm spending a decent bit of time setting up the sekeletons so that static meshes dont clip and that the creation of these meshes can be done in quick and iterable manner. If I get a little more adventureous I might post progress of this on Artstation or UE forums."
   }
 ]
