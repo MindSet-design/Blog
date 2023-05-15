@@ -15,6 +15,13 @@
     "Id": "3",
     "date": "2022-08-11",
     "title": "UE5 Project",
-    "body": "I've played around with unreal and web dev quite a bit over the last 2 years and I have built out a few complete web projects and want to do the same for game dev. I finally have an idea of something I'd like to create and a good idea of what I need to do to get it done. Right now i'm building out basic skel meshes and skeleton structures for the vehicles and characters. The project will be centered around robot characters and I want to make the characters similarly how the robot character in the land of nanite. To make it quick and iterable I'm spending a decent bit of time setting up the sekeletons so that static meshes dont clip and that the creation of these meshes can be done in quick and iterable manner. If I get a little more adventureous I might post progress of this on Artstation or UE forums."
+    "body": "I've played around with unreal and web dev quite a bit over the last 2 years and I have built out a few complete web projects and want to do the same for game dev. I finally have an idea of something I'd like to create and a good idea of what I need to do to get it done."
+  },
+  {
+    "Id": "4",
+    "date": "2023-05-06",
+    "title": "update/iotops.ca",
+    "body": "I recently did some data visualization work for East Central Catholic Schools and ended up making a template for school board data and wanted to have a site where people could find it, so I made iotops.ca. It allows me to track and invoice organizations that I do work for instead of just using something like an e-transfer. Now that I have this up and running I am looking for more career work that I could work full-time while maintaining IOTops.ca on the side to see if anything comes of it."
+    
   }
 ]
